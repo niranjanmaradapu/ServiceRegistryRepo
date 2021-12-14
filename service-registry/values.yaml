@@ -19,7 +19,7 @@ image:
   tag: ""
   postgres: 
     repository: postgres 
-    tag: latest
+    tag: ''
 
 
 nameOverride: ""
